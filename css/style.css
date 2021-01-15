@@ -1,0 +1,22 @@
+*,*:before,*:after{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    background: url('https://www.hiddenretreats.co.uk/images/shutterstock_147330278') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.glitch{
+    position: absolute;
+    background: url('https://www.hiddenretreats.co.uk/images/shutterstock_147330278') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
